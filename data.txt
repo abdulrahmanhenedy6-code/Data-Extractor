@@ -1,0 +1,137 @@
+================ Employees ================
+
+Name: Ahmed Mohamed
+Email: ahmed.mohamed@gmail.com
+Phone: 01012345678
+Website: https://www.python.org
+Department: AI
+Salary: $4,500/month
+
+Name: Sarah Ali
+Email: sara_ali+work@yahoo.com
+Phone: 01198765432
+Website: https://openai.com
+Department: HR
+Salary: €3,800/month
+
+Name: John Smith
+Email: john.smith@company.org
+Phone: 01234567890
+Department: Finance
+
+================ Products ================
+
+Product: Laptop
+Price: $899.99
+
+Product: SSD 1TB
+Price: €129.50
+
+Product: Coffee Mug
+Price: 250 EGP
+
+Product: Mechanical Keyboard
+Price: £89.99
+
+Product: USB-C Cable
+Price: $1800
+
+================ Payments ================
+
+Visa: 4111 1111 1111 1111
+MasterCard: 5500-0000-0000-0004
+AMEX: 378282246310005
+Discover: 6011111111111117
+
+Broken Card:
+1234 5678
+
+================ Servers ================
+
+Main Server:
+192.168.1.10
+
+DNS:
+8.8.8.8
+
+Gateway:
+10.0.0.1
+
+Broken IP:
+300.20.10.5
+
+Another Broken IP:
+192.168.1.999
+
+================ Websites ================
+
+https://github.com
+https://docs.python.org
+http://example.net
+https://stackoverflow.com
+
+Wrong:
+htt://google.com
+https://site
+
+================ Dates ================
+
+15-07-2026
+29/02/2024
+01-01-2025
+
+Wrong:
+31-04-2025
+30/02/2023
+15-13-2025
+
+================ Emails ================
+
+support@company.com
+admin@mail-server.net
+john_smith+work@gmail.com
+sales.team@amazon.co.uk
+dev123@my-company.org
+
+Wrong:
+abood@gmail
+@gmail.com
+user..name@gmail.com
+
+================ Phone Numbers ================
+
+01012345678
+01199887766
+01255667788
+01512344321
+
+Wrong:
+01912345678
+0101234567
+015123456789
+
+================ Error Logs ================
+
+Error: File not found
+Error: Access denied
+Error: Connection timeout
+Error: Invalid password
+Error: Disk full
+
+================ Random Notes ================
+
+Meeting tomorrow at 10:30 AM.
+Package delivered successfully.
+Tracking ID: TRK-998822
+Invoice Number: INV-2026-105
+Employee ID: EMP-4432
+
+================ Chat ================
+
+Ahmed: My email is ahmed.work@gmail.com
+Sara: Visit https://chat.example.com
+John: My new number is 01122334455
+Mike: My IP was 172.16.0.55 yesterday.
+
+================ Added Things ================
+
